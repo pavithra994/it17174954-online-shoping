@@ -1,0 +1,56 @@
+#wrapper {
+ 
+    
+}
+
+#profile-content {
+    background-color: #fefefe;
+    margin: 10% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width:90%; /* Could be more or less, depending on screen size */
+    height: 100%;
+}
+
+.image-con{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+.image-con img{
+    width: 240px;
+    height: 240px;
+}
+
+.details-table{
+    background-color: aqua;
+    margin: auto;
+    width: 50%;
+    font-size: x-large;
+
+    
+}
+.Order-Details{
+    width: 60%;
+    background-color: antiquewhite;
+    border: 1px solid black;}
+
+#submit-btn{
+    padding: 0;
+    height: 30px;
+    cursor: pointer;
+    width: 100px;
+    text-align: center;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    background-color: #ec7612;
+    border-radius: 2px;
+    margin: 0 auto;
+    float: left;
+    
+}
+.editbar{
+	font-size: x-large;
+	background-color: #cccf
+}
